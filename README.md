@@ -12,7 +12,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
-All lessons are available on
+
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
 https://youtu.be/nf56yrnoPuo)  

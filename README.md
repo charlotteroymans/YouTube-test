@@ -15,12 +15,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 All lessons are available on
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
-1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
-2. 🔧 **Set Up (31 min):** [Watch on YouTube](https://youtu.be/BjAJPm5sqz0)  
-3. 🎨 **Frontend (1.2 hours):** [Watch on YouTube](https://youtu.be/-WdKjaprzCE)  
-4. 🧠 **Backend (56 min):** [Watch on YouTube](https://youtu.be/9js9TtWxRlo)  
-5. 💰 **Monetization (19 min):** [Watch on YouTube](https://youtu.be/2As9QVGVWZ8)  
-6. 🚀 **Launch (26 min):** [Watch on YouTube](https://youtu.be/nf56yrnoPuo)  
+https://youtu.be/nf56yrnoPuo)  
 7. ❌ **Don’t Do This (20 min):** [Watch on Builder's Console Log](https://www.skool.com/ai-for-your-business/about)  
 8. 📚 **Full Guide (3.4 hours):** [Watch on YouTube](https://youtu.be/tvquJI-v8ys)  
 
